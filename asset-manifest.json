@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/birthday-reminder/static/css/main.a25574c1.chunk.css",
+    "main.js": "/birthday-reminder/static/js/main.f73b0b26.chunk.js",
+    "main.js.map": "/birthday-reminder/static/js/main.f73b0b26.chunk.js.map",
+    "runtime-main.js": "/birthday-reminder/static/js/runtime-main.35ffc63d.js",
+    "runtime-main.js.map": "/birthday-reminder/static/js/runtime-main.35ffc63d.js.map",
+    "static/js/2.1f771bf1.chunk.js": "/birthday-reminder/static/js/2.1f771bf1.chunk.js",
+    "static/js/2.1f771bf1.chunk.js.map": "/birthday-reminder/static/js/2.1f771bf1.chunk.js.map",
+    "index.html": "/birthday-reminder/index.html",
+    "precache-manifest.f409e5a7a0254363b531d7f2ebe2a276.js": "/birthday-reminder/precache-manifest.f409e5a7a0254363b531d7f2ebe2a276.js",
+    "service-worker.js": "/birthday-reminder/service-worker.js",
+    "static/css/main.a25574c1.chunk.css.map": "/birthday-reminder/static/css/main.a25574c1.chunk.css.map",
+    "static/js/2.1f771bf1.chunk.js.LICENSE.txt": "/birthday-reminder/static/js/2.1f771bf1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35ffc63d.js",
+    "static/js/2.1f771bf1.chunk.js",
+    "static/css/main.a25574c1.chunk.css",
+    "static/js/main.f73b0b26.chunk.js"
+  ]
+}
